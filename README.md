@@ -19,5 +19,13 @@ En la bodega se pueden colocar dos tipos de artículos, tipo 1 de volumen 10m3 y
 Cada vez se coloca un artículo, puede ser descargarArticulo(1) o descargarArticulo(2).
 Para crear un paquete el empacador necesita 3 artículos tipo 1 y 4 tipo 2, si no los hay debe esperar.
 
+
+##Diagrama de Clases Empleado para la solución
+![alt text](https://github.com/dylan9538/BodegaeSemaforo/blob/master/DiagramClassSemaforo.PNG "Diagrama de clases")
 ****
 
+##Pantallazos Solución
+
+![alt text](https://github.com/dylan9538/BodegaeSemaforo/blob/master/Prueba1.PNG "Diagrama de clases")
+![alt text](https://github.com/dylan9538/BodegaeSemaforo/blob/master/Prueba2.PNG "Diagrama de clases")
+![alt text](https://github.com/dylan9538/BodegaeSemaforo/blob/master/Prueba3.PNG  "Diagrama de clases")
