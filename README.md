@@ -9,6 +9,8 @@ Esteban Durán | 12103025
 ##Descripción de la solución
 
 SE MANEJAN EN ESTA VERSIÓN SEMAFOROS
+Se tiene en cuenta un semaforo Mutex para regular el acceso a los recursos, un semaforo para la capacidad de la bodeha y dos semaforos uno para la cantidad de articulos tipo 1 y uno para la cantidad de articulos tipo 2.
+
 La clase programa es la que inicializa los procesos (hilos) del empacador y el operario que son los encargados de crear y descargar los paquetes respectivamente. El método descargar artículo recibe un parámetro boolean indicando que tipo de paquete es, true para 1, false para 2.
 
 ###Problema
